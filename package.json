@@ -1,0 +1,28 @@
+{
+  "name": "cat",
+  "version": "1.0.0",
+  "description": "randomly generated strings that start with c",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rclark/cat.git"
+  },
+  "keywords": [
+    "cat"
+  ],
+  "author": "Ryan Clark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rclark/cat/issues"
+  },
+  "homepage": "https://github.com/rclark/cat#readme",
+  "dependencies": {
+    "hat": "0.0.3"
+  },
+  "devDependencies": {
+    "tape": "^4.2.0"
+  }
+}

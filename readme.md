@@ -1,5 +1,7 @@
 # cat
 
+![cat](https://cloud.githubusercontent.com/assets/515424/9673951/4eeb8fb6-525f-11e5-8683-a62bc612865d.jpg)
+
 Randomly generates strings that start with `c`.
 
 ```js

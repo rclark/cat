@@ -1,5 +1,5 @@
-var hat = require('hat');
+var cuid = require('cuid');
 
 module.exports = function cat() {
-  return 'c' + hat().substring(1);
+  return cuid();
 };

@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/rclark/cat#readme",
   "dependencies": {
-    "hat": "0.0.3"
+    "cuid": "^1.3.8"
   },
   "devDependencies": {
     "tape": "^4.2.0"
